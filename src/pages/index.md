@@ -3,7 +3,7 @@ templateKey: index-page
 title: Hello World
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
-subheading: The quick brown fox...
+subheading: The quick brown fox...lazy dog
 mainpitch:
   title: Why Kaldi
   description: >
